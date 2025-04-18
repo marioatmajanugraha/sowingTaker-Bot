@@ -2,6 +2,10 @@
 Script ini digunakan untuk mengotomatiskan tugas dan klaim mining di platform Sowing Taker.
 
 ---
+## 📌 New update!
+
+- 1. Loop after process all wallets and wait 3 Hours
+---
 
 ## 📌 Fitur
 
