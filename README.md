@@ -4,7 +4,7 @@ Script ini digunakan untuk mengotomatiskan tugas dan klaim mining di platform So
 ---
 ## 📌 New update!
 
-- 1. Loop after process all wallets and wait 3 Hours
+- Loop after process all wallets and wait 3 Hours
 ---
 
 ## 📌 Fitur
