@@ -5,6 +5,12 @@ Script ini digunakan untuk mengotomatiskan tugas dan klaim mining di platform So
 ## 📌 New update!
 
 - Loop after process all wallets and wait 3 Hours
+- Add more Option Captcha Solver
+1. Anti Captcha 
+2. Captcha
+3. CapSolver
+4. TrueCaptcha
+5. NoCaptchaAI
 ---
 
 ## 📌 Fitur
